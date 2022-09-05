@@ -1,7 +1,9 @@
 # haxe-skeleton
 Приложение-скелетон для тестирования возможностей [Haxe](https://haxe.org/) -- кросс-платформенного языка, в котором заявлена трансляция кода в JavaScript, C++, C#, Java, JVM, Python, Lua, PHP. Есть множество интересных [библиотек-расширений](https://lib.haxe.org/), включая [React Native](https://lib.haxe.org/p/react-native/).
 
-Плагин Haxe для Intellij Idea оказался нерабочим, зато работает плагин VSCode 
+Плагин Haxe для Intellij Idea оказался нерабочим, зато работает плагин VSCode.
+
+![ide](https://raw.githubusercontent.com/Doctorrr/haxe-skeleton/main/screenshot.jpg)
 
 Для тестирования использовал Linux Ubuntu, надо поставить интересующие языки программирования примерно так:
 ```sh
