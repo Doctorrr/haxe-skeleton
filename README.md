@@ -37,3 +37,5 @@ javac "-sourcepath" "src" "-d" "obj" "-g:none" "@cmd"
 Готово, трансляция и компиляция кода на разные языки записана в папку bin.
 
 UPDATE: +см. [pache Thrif](https://thrift.apache.org/)
+UPDATE: +см. [Swig](https://www.swig.org/download.html)
+UPDATE: +см. Google Protocol Buffers
