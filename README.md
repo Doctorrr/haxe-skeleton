@@ -5,11 +5,12 @@
 
 ![ide](https://raw.githubusercontent.com/Doctorrr/haxe-skeleton/main/screenshot.jpg)
 
-Для тестирования использовал Linux Ubuntu, надо поставить интересующие языки программирования примерно так:
+Для тестирования использовал Linux Ubuntu, надо поставить интересующие языки программирования и библиотеки Haxe примерно так:
 ```sh
 sudo apt-get install default-jdk
 sudo apt install php8.1
 sudo apt install php8.1-mbstring
+
 haxelib install hxnodejs
 haxelib install hxjava
 
