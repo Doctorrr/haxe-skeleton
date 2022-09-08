@@ -40,4 +40,8 @@ UPDATE: +см. [pache Thrif](https://thrift.apache.org/)
 
 UPDATE: +см. [Swig](https://www.swig.org/download.html)
 
-UPDATE: +см. Google Protocol Buffers
+UPDATE: +см. [Google Protocol Buffers](https://developers.google.com/protocol-buffers)
+
+UPDATE: +см. [json-to-typescript](https://transform.tools/json-to-typescript)
+
+UPDATE: +см. [quicktype.io](https://quicktype.io/#hello)
