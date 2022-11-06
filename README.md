@@ -34,7 +34,7 @@ javac "-sourcepath" "src" "-d" "obj" "-g:none" "@cmd"
 18:05:44  done.
 ```
 
-Готово, трансляция и компиляция кода на разные языки записана в папку [bin](tree/main/bin).
+Готово, трансляция и компиляция кода на разные языки записана в папку [bin](https://github.com/Doctorrr/haxe-skeleton/tree/main/bin).
 
 UPDATE: +см. [pache Thrif](https://thrift.apache.org/)
 
